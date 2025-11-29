@@ -1104,6 +1104,17 @@ CartoCSS:
   ace_mode: text
   tm_scope: source.css.mss
   language_id: 53
+CatLang:
+  type: programming
+  color: "#c21f00"
+  aliases:
+  - CatLang
+  extensions:
+  - ".cat"
+  - ".catlang"
+  - ".purr"
+  - ".yarn"
+  language_id: 4628362936
 Ceylon:
   type: programming
   color: "#dfa535"
